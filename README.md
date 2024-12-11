@@ -1,4 +1,4 @@
-# Aplicacion de Consola Mascotas
+# Aplicacion de Consola - Mascotas
 
 ## Ejecutar la aplicacion
 
